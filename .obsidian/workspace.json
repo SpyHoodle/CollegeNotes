@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "09bb48c7cdb21e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "79916d04ee484e3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e2d53e44c1a3e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Manhunt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b5b60bc2484280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Physics/PAGs/3.1 Restivity of a wire.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "310b168161d17c83",
+    "type": "split",
+    "children": [
+      {
+        "id": "f102ef5f7455af62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bd037cf9015719d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d0b5d3c89285ecd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1d8c740dd091be0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "53cf650b49b4b871",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f9663d0e0d2551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f8cdf6a9a1217e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "College/Physics/PAGs/3.1 Restivity of a wire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a367953d99098400",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "College/Physics/PAGs/3.1 Restivity of a wire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feacd47004f54ed4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d339240d8d0ce813",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "College/Physics/PAGs/3.1 Restivity of a wire.md"
+              }
+            }
+          },
+          {
+            "id": "69bdbce5da0ddfee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb554321428cb864",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 470.3709411621094,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d3b5b60bc2484280",
+  "lastOpenFiles": [
+    "College/Physics/PAGs/3.2 Investigating Electrical Characteristics.md",
+    "College/Physics/PAGs/3.1 Restivity of a wire.md",
+    "College/Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
+    "College/Physics/PAGs/6.1 Determining the Planck Constant.md",
+    "Projects/Sector 0.md",
+    "Lifestyle/Routine.md",
+    "Lifestyle/Goals.md",
+    "College/Mathematics/Applied/Mechanics/Introduction to Mechanics.md",
+    "College/Physics/9 Energy, Power and Resistance/9.5 I-V Characteristics.md",
+    "College/Physics/9 Energy, Power and Resistance/9.4 Resistance.md",
+    "College/Physics/9 Energy, Power and Resistance/9.3 Electron Guns.md",
+    "College/Physics/9 Energy, Power and Resistance/9.2 Potential Difference and EMF.md",
+    "College/Computer Science/1.4 Data Types, Data Structures and Algorithms/1.4.2 Data Structures/Tree.md",
+    "College/Computer Science/1.4 Data Types, Data Structures and Algorithms/1.4.2 Data Structures/Linked List.md"
+  ]
+}

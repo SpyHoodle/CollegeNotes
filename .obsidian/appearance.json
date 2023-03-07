@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "big-math"
+  ],
+  "monospaceFontFamily": "Iosevka",
+  "accentColor": ""
+}

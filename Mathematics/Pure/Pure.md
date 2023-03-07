@@ -1,0 +1,2 @@
+# Pure
+[Mathematics](Mathematics.md)

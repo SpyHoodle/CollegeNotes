@@ -1,0 +1,17 @@
+{
+  "spellcheck": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Assets",
+  "vimMode": true,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 90
+  },
+  "useMarkdownLinks": true
+}
